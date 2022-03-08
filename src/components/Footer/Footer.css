@@ -1,10 +1,10 @@
 footer {
-    color: darkcyan;
+    color: orange;
     height: 40px;
-    background-color: grey;
+    background-color: darkcyan;
     display: flex;
     align-items: center;
-    justify-content: flex-end;
+    justify-content: center;
     position: fixed;
     width: 100%;
     bottom: 0;

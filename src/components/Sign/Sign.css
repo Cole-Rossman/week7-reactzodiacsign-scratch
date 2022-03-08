@@ -1,5 +1,10 @@
+div:hover {
+    background-color: greenyellow;
+}
+
 .sign {
     width: 200px;
+    height: 200px;
     background-color: #B8B8FF;
     margin: 10px;
     border-radius: 5px;
@@ -8,4 +13,10 @@
     align-items: center;
     padding: 10px;
     color: darkmagenta;
+    box-shadow: 10px 10px 5px lightblue;
+}
+
+.name {
+    font-weight: 900;
+    color: rgb(242, 41, 81);
 }
