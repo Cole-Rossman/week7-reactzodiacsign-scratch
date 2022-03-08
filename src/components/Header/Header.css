@@ -1,8 +1,10 @@
 header {
-    color: rgb(154, 198, 206);
+    color: black;
     height: 40px;
-    background-color: aliceblue;
+    background-color: #9CDE9F;
     display: flex;
+    flex-direction: column;
     align-items: center;
-    padding-left: 20px;
+    font-weight: 500;
+    font-size: x-large;
 }
