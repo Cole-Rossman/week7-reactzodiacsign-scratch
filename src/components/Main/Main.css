@@ -1,0 +1,10 @@
+main {
+    display: flex;
+    flex-wrap: wrap;
+    align-content: center;
+    justify-content: center;
+    background-size: cover;
+    background-attachment: fixed;
+    height: 100vh;
+    padding-bottom: 20px;
+}
